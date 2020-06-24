@@ -6,7 +6,7 @@ import com.github.bigbigzhan.domain.Node;
 import java.util.stream.IntStream;
 
 /**
- * 普通hash测试方法
+ * 一致性hash测试方法
  */
 public class Run {
 
